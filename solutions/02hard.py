@@ -1,6 +1,3 @@
-import itertools
-
-
 class Interval:
 
     def __init__(self, a: int, b: int):
